@@ -22,6 +22,8 @@ Below are some of the websites I found my data from that could not be uploaded d
     
   1. GFS Data downloaded from here: [Link to overall website](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast) 
   2. [Link to 0.5 degree resolution data download that was used](https://www.ncei.noaa.gov/has/HAS.FileAppRouter?datasetname=GFSGRB24&subqueryby=STATION&applname=&outdest=FILE)
+  3. [Link to download the archived data needed for running other WPC surface maps](https://www.mesonet.agron.iastate.edu/wx/afos/p.php?pil=CODSUS&e=202010201500)
+  4. [Link to download the archived data needed for running other SPC Day 1 outlooks](https://www.spc.noaa.gov/archive/)
 
 **Some of my additional data used in the project will not be uploaded here or found on the web.**
 Part of that is due to the fact that both of the files are still very large and cannot be uploaded properly.
