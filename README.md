@@ -47,7 +47,8 @@ All the different plots that I ended up making will be listed below. However, pl
       3. WPC Surface Analysis on April 27 from 21 UTC and 00/03 UTC on April 28
       4. April 27th Soundings at 12 and 18 UTC from Birmingham and Jackson
       
-      *The following files were taken from the 18 UTC run of the GFS on April 27 looking at the 21 UTC forecast hour*
+      *The following files were taken from the 18 UTC run of the GFS on April 27 looking at the 21 UTC 
+      forecast hour*
       
       5. 300 mb heights and winds on April 27 at 21 UTC
       6. 850 mb Relative Humidity on April 27 at 21 UTC
