@@ -10,6 +10,12 @@ This area is full of code that was used in the Computer Methods for Meteorology 
 All of the code that I used for my project is found here, as well as all plots, and the data I found as well.
 Because some of the data was so big, I was not able to upload it all here, however, I will have links to those listed below.
 
+This project looks at the 2011 La Nina season, looking specifically at sea surface temperatures in the Atlantic to confirm the La Nina. 
+This was also looking at some of the events that came from the 2011 tornado outbreak from April 25-28.
+A lot of the environmental factors, such as CAPE, were looked at through model GFS data from the 18Z run on April 27th, as I specifically focused on April 27th in North/Central Alabama.
+Other radar data and storm reports were done as well, along with looking at the overall tornado composites from the 2011 year as a whole to see how tornadoes were during the 2011 year.
+Generally, I was looking at the 2011 La Nina and how it affected tornadoes during that season, especially during the April 25-28 super outbreak.
+
 If there are any questions about some code or a file will not download, please feel free to reach out to me here on GitHub or via my school email dbn64@msstate.edu.
 Thank you for stopping by!
 
